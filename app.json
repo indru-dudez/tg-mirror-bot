@@ -1,0 +1,17 @@
+{
+    "name": "bot",
+    "description": "A Telegram bot for all your gay needs",
+    "keywords": [
+      "bot",
+      "telegram",
+      "python"
+    ],
+    "repository": "https://github.com/indru-dudez/tg-mirror-bo",
+    "website": "https://github.com/indru-dudez/tg-mirror-bo",
+    "stack": "container",
+    "addons": [
+      {
+        "plan": "heroku-postgresql"
+      }
+    ]
+}

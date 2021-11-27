@@ -2,6 +2,9 @@
 
 A Telegram Bot written in Python language to mirror files on the internet to Google Drive
 
+<p><a href="https://heroku.com/deploy?template=https://github.com/indru-dudez/tg-mirror-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
+
 # Credits:
 
 - This repository is a fork-clone of the following repositories.
